@@ -1,6 +1,6 @@
-<span align="center">
-  <img src="readmeAssets/falling_muslemario.gif" alt="PyGame MuscleMario" title="PyGame MuscleMario" height="100" />
-</span>
+<p align="center">
+  <img src="readmeAssets/falling_muslemario.gif" style="margin-top:20px" alt="PyGame MuscleMario" title="PyGame MuscleMario" height="100" />
+</p>
 
 <h1 align="center">PyGame MuscleMario</h1>
 
