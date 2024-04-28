@@ -1,8 +1,8 @@
-﻿<h1 align="center">PyGame MuscleMario</h1>
-
- ---
-
-<img src="readmeAssets/falling_muslemario.gif" style="margin-top: -19px; margin-right: 20px;" alt="PyGame MuscleMario" title="PyGame MuscleMario" align="right" height="100" />
+<p align="center">
+  <img src="readmeAssets/falling_muslemario.gif" alt="PyGame MuscleMario" title="PyGame MuscleMario" height="100" />
+</p>
+ 
+<h1 align="center">PyGame MuscleMario</h1>
 
 ![Stable Version](https://img.shields.io/badge/stable-1.0.0-green)
 ![Latest Version](https://img.shields.io/badge/latest-1.0.0-yellow)
@@ -28,9 +28,11 @@ with
 
 ---
 
-## About
+<p align="center">
+  <img src="readmeAssets/buff_level_0.gif" alt="Muscle Man Mario" title="Muscle Man Mario" height="120" />
+</p>
 
-<img src="readmeAssets/buff_level_0.gif" alt="Muscle Man Mario" title="Muscle Man Mario" height="120" />
+<h1 align="center" id="about">About</h1>
 
 Embark on an epic journey with Muscle Mario as he sets out to vanquish weakly green aliens in this action-packed 2D sidescroller created using Python and Pygame.
 
@@ -94,7 +96,7 @@ and You need to install PyGame, e.g. using `pip`
 pip install pygame
 ```
 
-Then, all left to do is running the command below
+Then all left to do is run the following command
 
 ```powershell
 python main.py
