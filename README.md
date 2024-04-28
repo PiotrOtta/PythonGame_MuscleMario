@@ -1,7 +1,6 @@
-<p align="center">
+<span align="center">
   <img src="readmeAssets/falling_muslemario.gif" alt="PyGame MuscleMario" title="PyGame MuscleMario" height="100" />
-</p>
- 
+</span>
 <h1 align="center">PyGame MuscleMario</h1>
 
 ![Stable Version](https://img.shields.io/badge/stable-1.0.0-green)
