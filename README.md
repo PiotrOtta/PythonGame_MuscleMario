@@ -93,12 +93,12 @@ Overworld.wav
 > numpy <br />
 > matplotlib <br />
 
-> **Note**  
+> [!NOTE] 
 > [Python downloads](https://www.python.org/downloads/)
 
 and You need to install PyGame, e.g. using `pip`
 
-> **Note**  
+> [!NOTE] 
 > (if you don't have pip, install it with: `python -m pip install -U pip`)
 
 ### Installation
