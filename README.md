@@ -22,6 +22,7 @@ with
   - [Game showcase](#game-showcase)
   - [Used technologies](#used-technologies)
 - [Running the game](#running-the-game)
+- [Controls](#controls)
 - [Author](#author)
 - [Links](#links)
 - [Copyright](#copyright)
@@ -86,13 +87,25 @@ Overworld.wav
 
 ## Running the game
 
-**Prerequisits:** `Python 3.11` and `PyGame 2.5.2`
+**Prerequisits:**
+> Python 3.11, <br />
+> PyGame 2.5.2, <br />
+> numpy <br />
+> matplotlib <br />
 
-You have to install `Python` atleast version `3.11` [Python downloads](https://www.python.org/downloads/)
+> **Note**  
+> [Python downloads](https://www.python.org/downloads/)
 
 and You need to install PyGame, e.g. using `pip`
 
+> **Note**  
+> (if you don't have pip, install it with: `python -m pip install -U pip`)
+
+### Installation
+
 ```powershell
+pip install Numpy
+pip install matplotlib
 pip install pygame
 ```
 
@@ -102,7 +115,13 @@ Then all left to do is run the following command
 python main.py
 ```
 
----
+## Controls
+
+**Move**: ⬆️ ⬇️ ⬅️ ➡️
+
+**Attack**: `A` + X direction
+
+e.g. `A` + ⬅️, `A` + ➡️
 
 ## Author
 
